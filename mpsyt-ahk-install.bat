@@ -1,6 +1,6 @@
-pip3 install virtualenv
 @echo off
 
+pip3 install virtualenv
 pip3 install virtualenvwrapper-win
 mkvirtualenv mpsyt
 setprojectdir %UserProfile%\Envs\mpsyt
